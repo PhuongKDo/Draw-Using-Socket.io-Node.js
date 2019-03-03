@@ -1,0 +1,10 @@
+Install nodejs package @ https://nodejs.org/en/
+
+Start        >> node
+Run server   >> node server.js
+
+Setup npm (node package manager) to install Express(flexible version of node.js)
+             >> npm init
+             >> npm install express --save
+
+             >> npm install socket.io --save
